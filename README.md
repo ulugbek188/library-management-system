@@ -68,7 +68,7 @@ The application starts with five sample books.
 
 ---
 
-# ⚙️ Available Functions
+#  Available Functions
 
 ### Library Information
 
